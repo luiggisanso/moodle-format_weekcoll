@@ -31,12 +31,12 @@
  */
 
 // French Translation of Collapsed Weeks Course Format
-// Traduction française du Format du cours Collapsed Semaines
+// Traduction française du Format du cours Semaines réduites
 
 // Used by the Moodle Core for identifing the format and displaying in the list of formats for a course in its settings.
-// Utilisée par le noyau de Moodle pour une indication des format et l'affichage dans la liste des formats pour un cours de ses paramètres.
-$string['nameweekcoll']='Semaines Collapsed';
-$string['formatweekcoll']='Semaines Collapsed';
+// Utilisée par le noyau de Moodle pour une indication des formats et l'affichage dans la liste des formats pour un cours dans ses paramètres.
+$string['nameweekcoll']='Semaines réduites';
+$string['formatweekcoll']='Semaines réduites';
 
 // Used in format.php
 // Employée au format.php
@@ -44,13 +44,13 @@ $string['weekcolltoggle']='Basculer';
 $string['weekcolltogglewidth']='width: 36px;';
 
 // Toggle all - Moodle Tracker CONTRIB-3190
-$string['weekcollall']='toute bascule.';
-$string['weekcollopened']='Ouvert';
-$string['weekcollclosed']='Fermez';
+$string['weekcollall']='toutes les sections.';
+$string['weekcollopened']='Ouvrir';
+$string['weekcollclosed']='Fermer';
 
 // Moodle 2.0 Enhancement - Moodle Tracker MDL-15252, MDL-21693 & MDL-22056 - http://docs.moodle.org/en/Development:Languages
 // Moodle 2.0 Amélioration - Moodle Tracker MDL-15252, MDL-21693 & MDL-22056 - http://docs.moodle.org/en/Development:Languages
 $string['sectionname'] = 'Semaine';
-$string['pluginname'] = 'Semaines Collapsed';
+$string['pluginname'] = 'Semaines réduites';
 $string['section0name'] = 'Général';
 ?>
